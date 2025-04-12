@@ -23,3 +23,8 @@ I work with Fedora Linux, Bash scripting, and Raspberry Pi — building practica
 > “Discipline beats motivation.”
 
 [Explore my repositories »](https://github.com/carlos-tech?tab=repositories)
+
+---
+
+**Connect with me on LinkedIn**  
+[linkedin.com/in/carlos-semeao-04938a357](https://linkedin.com/in/carlos-semeao-04938a357)
