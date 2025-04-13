@@ -1,22 +1,34 @@
-# Tactical Tech Portfolio – Carlos Semeao
 
-## Profile
-Self-driven tech pivot, currently mastering Linux systems, Bash scripting, and core cloud infrastructure.  
-Studying for CompTIA Network+ and AWS Cloud Practitioner. Focused, execution-oriented, and building public proof of skills on GitHub.
 
-**Mission**: Break into tech with precision by Q3 2025 — targeting entry-level roles in IT Support, Sysadmin, or NOC.
 
-## Live Projects
 
-- [Fedora Auto-Config Script](https://github.com/carlos-tech-ops/fedora-config)  
-  Automates setup of Fedora system: updates, basic packages, aliases.
 
-- [Network Tools Notes](https://github.com/carlos-tech-ops/network-tools-notes)  
-  TCP/IP, diagnostic tools, and packet analysis notes for Network+.
 
-- [System Maintenance Bash Scripts](https://github.com/carlos-tech-ops/linux-scripts)  
-  Custom Bash tools for system checks, updates, and package management.
+# Hi, I'm Carlos
 
-## LinkedIn & Contact
-- [LinkedIn Profile](https://www.linkedin.com/in/carlossemeao)  
-- GitHub: @carlos-tech-ops  
+I'm a self-taught tech enthusiast transitioning into IT and cloud security.  
+I work with Fedora Linux, Bash scripting, and Raspberry Pi, building practical tools and learning through hands-on projects.
+
+## Projects
+- `fedora-setup-notes`: My Linux install and config guide
+- `bash-scripts`: (Coming soon) A set of useful CLI automations
+- `raspberry-pi-startup`: (Coming soon) Personal experiments with Raspberry Pi setups
+
+## My Tech Stack
+- Linux (Fedora)
+- Bash
+- Raspberry Pi
+- Git + GitHub
+
+Studying: CompTIA Network+  
+Seeking: Entry-level roles (IT Support, Junior Sysadmin, NOC)  
+Available: Immediately
+
+> “Discipline beats motivation.”
+
+[Explore my repositories »](https://github.com/carlos-tech?tab=repositories)
+
+---
+
+Connect with me on LinkedIn
+[linkedin.com/in/carlos-semeao-04938a357](https://linkedin.com/in/carlos-semeao-04938a357)
