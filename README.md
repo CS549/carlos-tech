@@ -1,30 +1,22 @@
-# carlos-tech
-My GitHub profile README – about me and my projects
-# Hi, I'm Carlos
+# Tactical Tech Portfolio – Carlos Semeao
 
-I'm a self-taught tech enthusiast transitioning into IT and cloud security.  
-I work with Fedora Linux, Bash scripting, and Raspberry Pi — building practical tools and learning through hands-on projects.
+## Profile
+Self-driven tech pivot, currently mastering Linux systems, Bash scripting, and core cloud infrastructure.  
+Studying for CompTIA Network+ and AWS Cloud Practitioner. Focused, execution-oriented, and building public proof of skills on GitHub.
 
-## Projects
-- `fedora-setup-notes`: My Linux install and config guide
-- `bash-scripts`: (Coming soon) A set of useful CLI automations
-- `raspberry-pi-startup`: (Coming soon) Personal experiments with Raspberry Pi setups
+**Mission**: Break into tech with precision by Q3 2025 — targeting entry-level roles in IT Support, Sysadmin, or NOC.
 
-## My Tech Stack
-- Linux (Fedora)
-- Bash
-- Raspberry Pi
-- Git + GitHub
+## Live Projects
 
-**Studying:** CompTIA Network+  
-**Seeking:** Entry-level roles (IT Support, Junior Sysadmin, NOC)  
-**Available:** Immediately
+- [Fedora Auto-Config Script](https://github.com/carlos-tech-ops/fedora-config)  
+  Automates setup of Fedora system: updates, basic packages, aliases.
 
-> “Discipline beats motivation.”
+- [Network Tools Notes](https://github.com/carlos-tech-ops/network-tools-notes)  
+  TCP/IP, diagnostic tools, and packet analysis notes for Network+.
 
-[Explore my repositories »](https://github.com/carlos-tech?tab=repositories)
+- [System Maintenance Bash Scripts](https://github.com/carlos-tech-ops/linux-scripts)  
+  Custom Bash tools for system checks, updates, and package management.
 
----
-
-**Connect with me on LinkedIn**  
-[linkedin.com/in/carlos-semeao-04938a357](https://linkedin.com/in/carlos-semeao-04938a357)
+## LinkedIn & Contact
+- [LinkedIn Profile](https://www.linkedin.com/in/carlossemeao)  
+- GitHub: @carlos-tech-ops  
